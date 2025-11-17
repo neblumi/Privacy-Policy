@@ -1,7 +1,7 @@
 # Privacy-Policy
 Privacy Policy for Hangout
 
-Effective Date: 12/20/24
+Effective Date: 11/10/25
 
 This Privacy Policy outlines how Hangout collects, uses, and protects your information when you use our Discord bot. By using Hangout, you consent to the data practices described in this policy.
 
@@ -51,7 +51,7 @@ Our bot may contain links or integrations with third-party services. We are not 
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the bot or through other means. Your continued use of Hangout after such changes constitutes your acceptance of the revised policy.
 
 9. Contact Information
-If you have any questions about this Privacy Policy, please contact us at pwwncess49@gmail.com
+If you have any questions about this Privacy Policy, please contact us at itsssamelia654@gmail.com
 
 By using Hangout, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
 
